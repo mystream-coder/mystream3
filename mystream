@@ -25,7 +25,7 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/pfDPIbN.png" group-title="",TV5
 http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5H1dHJv.jpg",BOMBO RADYO NAGA
-plugin://plugin.video.youtube/play/?video_id=wVMEKhQ6C1E
+plugin://plugin.video.youtube/play/?video_id=gpuwEJYZM_4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/ruTQs2i.png" group-title="",One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="",SMNI
