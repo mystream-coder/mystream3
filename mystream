@@ -37,7 +37,6 @@ http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/x1wAYYh.jpg" group-title="",UNTV
-#EXTINF:30,chunklist_b332000.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/kvtF359.png" group-title="",DepEd TV
