@@ -7,8 +7,7 @@ https://www.youtube.com/watch?v=mui4XM8OLcU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dnO0Fwd.png",NICKFLEXPH PLAYLIST
 plugin://plugin.video.youtube/play/?playlist_id=PLeWVbxoYLY3xx98rvBOq2Plq_9e2MeEAp
 #EXTINF:-1 tvg-id="'GMA" tvg-name="KUNG FU MOVIE" tvg-country="CHINA" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/K3nfBYx.jpg" group-title="",KUNG FU MOVIE
-#EXTVLCOPT:network-caching=1000
-https://stream-us-east-1.getpublica.com/cl/9abcf2e3-7d2a-41b7-913c-9bc8fb7e6e3a/1280x720_2550000_4.m3u8
+https://stream-us-east-1.getpublica.com/cl/da4fa0a3-f4cb-4d8b-9903-8ac21f472f69/1280x720_2550000_4.m3u8
 #EXTINF:-1 tvg-id="'GMA" tvg-name="GMA" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/5DSMlsc.jpg" group-title="",GMA
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
 #EXTINF:-1 tvg-id="GMALifeTV.ph" tvg-name="GMA Life TV" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/6uPFIa6.jpg" tvg-url="" group-title="",GMA Life TV
