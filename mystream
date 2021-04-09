@@ -120,7 +120,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0
 #EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
 https://indotv.tech/m3u8sd/usee-nickelodeon-indonesia.m3u8
-#EXTINF:36,0.m3u8 tvg-id="KIDOODLE TV" tvg-name="KIDOODLE TV" tvg-country="US" tvg-language="Tagalog" tvg-logo="hhttps://i.imgur.com/YkdnD9J.jpg" group-title="Kids",KIDOODLE TV
+#EXTINF: tvg-id="KIDOODLE TV" tvg-name="KIDOODLE TV" tvg-country="US" tvg-language="Tagalog" tvg-logo="hhttps://i.imgur.com/YkdnD9J.jpg" group-title="Kids",KIDOODLE TV 36,0.m3u8 
 https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/b106dfac-7ad3-467c-932c-1f66b74c1034/0.m3u8
 #EXTINF:-1 tvg-id="ANIPLUS.ph" tvg-name="ANIPLUS" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/bk7YXZy.png" group-title="Kids",ANIPLUS (576p)
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
